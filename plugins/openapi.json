@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "Perplexity AI Chat",
-    "description": "A search engine which you can utlized to get realworld information. Input should be a structured chat message list.",
+    "description": "A search engine which you can utlized to get real world information. Input should be a structured chat message list.",
     "version": "v1.0.0"
   },
   "servers": [
